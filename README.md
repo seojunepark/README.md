@@ -21,7 +21,7 @@ To answer the math question: Type by using integers and intergers only
 To celebrate victory: Type either, "Celebrate in Green" or "Celebrate in Purple" to celebrate in a room painted with either color your choose 
 To respawn: Once you meet death, you will be generously given the chance to type, "respawn" to respawn.  
 
-## Run the Program
+## Running the Program
 
 ```python
 python game.py
